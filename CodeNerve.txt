@@ -1,10 +1,10 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd Saranyan_GJ/<!-- kjsdfhkjdhsfkjdshfkj -->About_Myself
+<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Saranyan_GJ.txt<br/><br/>
+My favorite quote, "<span id="k">Without Struggle, Success has no value</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+Hey There! This is Saranyan.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how my portfolio would look like.</p>
+<p>I got into the Bugbounty and cybersecurity industry after understanding the hacker culture by immersing myself in books and so many courses. I was drawn towards the need to protect data from cybercriminals.It was then that I realized how the perspective of an attacker towards data and information differs from an organization’s perspective. From simulating attacks and assessing risks to implementing defenses to protect a firm’s assets, I couldn’t help but find the idea powerful and imperative to the future. Cybersecurity didn’t just appear to be a stable career choice though, it was fascinating, and I was sure that it’s depth could keep me occupied and interested in years to come. So, to proceed ahead, I chose EC-Council’s Certified Ethical Hacker (C|EH). It is undoubtedly one of the most recognized programs in the industry! Personally, I pursued the C|EH to increase my chances of landing in a well-paying career.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> Currently I am Working as a Security Researcher in Bugcrowd Program.<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
